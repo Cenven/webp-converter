@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build / Tauri
+src-tauri/target/
+src-tauri/WixTools/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs / Env
+*.log
+.env
+.env.local
+
+# Frontend build (if used)
+dist/
+.output/
