@@ -32,8 +32,8 @@
 ## 安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/webp-tool.git
-cd webp-tool
+git clone https://github.com/YOUR_USERNAME/webp-converter.git
+cd webp-converter
 pnpm install
 ```
 
@@ -103,7 +103,7 @@ pnpm tauri build
 ## 项目结构
 
 ```
-webp-tool/
+webp-converter/
 ├── src/                 # Vue 前端
 │   ├── App.vue          # 主界面、参数、文件列表、多语言
 │   ├── main.ts

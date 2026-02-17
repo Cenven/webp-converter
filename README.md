@@ -32,8 +32,8 @@ A desktop app to convert PNG, JPG, and JPEG images to WebP. Drag & drop, batch c
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/webp-tool.git
-cd webp-tool
+git clone https://github.com/YOUR_USERNAME/webp-converter.git
+cd webp-converter
 pnpm install
 ```
 
@@ -104,7 +104,7 @@ pnpm tauri build
 ## Project Structure
 
 ```
-webp-tool/
+webp-converter/
 ├── src/                 # Vue frontend
 │   ├── App.vue          # Main UI, options, file list, i18n
 │   ├── main.ts
